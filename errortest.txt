@@ -1,0 +1,14 @@
+org.apache.commons.compress.OsgiITest
+org.apache.commons.net.ftp.FTPSClientTest
+org.apache.commons.net.tftp.TFTPTest
+com.zaxxer.hikari.osgi.OSGiBundleTest
+com.zaxxer.hikari.metrics.dropwizard.CodaHaleMetricsTrackerTest
+org.apache.commons.pool2.impl.TestGenericObjectPool
+org.jfree.chart.ChartPanelTest
+org.apache.ibatis.cache.WeakCacheTest
+com.zaxxer.hikari.pool.PostgresTest
+org.apache.commons.configuration2.beanutils.TestConfigurationDynaBean
+org.apache.commons.configuration2.beanutils.TestConfigurationDynaBeanXMLConfig
+org.apache.ibatis.parsing.GenericTokenParserTest
+com.zaxxer.hikari.HikariConfigTest
+com.zaxxer.hikari.pool.TestJavassistCodegen
